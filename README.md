@@ -1,5 +1,6 @@
 Netflix Clone (Frontend Only) - HTML & CSS
 Overview
+YOU CAN CHECK HERE https://yogeshnaharwara.github.io/Netflix-Clone/
 This project is a frontend-only clone of the popular streaming platform Netflix, built using HTML and CSS.
 It focuses on recreating the Netflix homepage, highlighting layout design, UI/UX, and responsiveness.
 No backend, login system, or video streaming functionality is included — it's purely for design and frontend practice.
